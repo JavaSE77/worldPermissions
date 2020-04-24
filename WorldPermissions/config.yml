@@ -1,0 +1,10 @@
+#This is the default config!
+#By default, all players have the permission WorldPermission.world. This allows them to access the default "world"
+#Permission WorldPermission.<worldname>
+#Invalid permission message. Supports color codes.
+InvalidWorldMsg: '&4You have been teleported to a world you are not allowed to enter!'
+Spawn:
+  x: 1
+  y: 66
+  z: 1
+  world: world

@@ -1,0 +1,9 @@
+name: WorldPermissions
+author: JavaSE
+version: 1.5
+description: Require a permission to enter certain worlds. 
+main: club.hardcoreminecraft.javase.worldpermissions.main
+commands:
+permissions:
+  WorldPermission.world:
+    default: true
